@@ -1,3 +1,4 @@
+![logo](https://github.com/SoniyaGulia/Soniya/blob/main/SONIYA.pdf)
 # Soniya 👋
 
 **Data Analyst | Data Science Enthusiast | M.Sc. (Data Science & Machine Learning)**
